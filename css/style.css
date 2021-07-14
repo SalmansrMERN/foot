@@ -601,8 +601,8 @@ section {
     .rank_dtl h3,
     .rank_dtl h4,
     .flag {
-        font-weight: 600;
-        font-size: 12px;
+        font-weight: 700;
+        font-size: 11px;
     }
 
     #footer_part {
@@ -710,6 +710,13 @@ section {
     .player_dtl {
         margin-top: 22px;
         margin-right: 10px;
+    }
+
+    .rank_dtl h3,
+    .rank_dtl h4,
+    .flag {
+        font-weight: 700;
+        font-size: 12px;
     }
 
     .flag img {
